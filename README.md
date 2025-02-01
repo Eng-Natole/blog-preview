@@ -19,7 +19,7 @@ This project is a blog preview card component designed using HTML and CSS. The g
 ![blog -preview-card](./assets/images/screenshot.jpg)
 
 🔗 Links
-Solution URL: Add your solution URL here
+Solution URL:https://github.com/Eng-Natole/blog-preview
 Live Site URL: Add your live site URL here
 🛠️ My Process
 Built with
