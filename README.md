@@ -20,7 +20,7 @@ This project is a blog preview card component designed using HTML and CSS. The g
 
 🔗 Links
 Solution URL:https://github.com/Eng-Natole/blog-preview
-Live Site URL: Add your live site URL here
+Live Site URL:https://eng-natole.github.io/blog-preview/
 🛠️ My Process
 Built with
 HTML5 - For the semantic structure
