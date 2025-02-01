@@ -27,19 +27,9 @@ HTML5 - For the semantic structure
 CSS3 - For styling and layout
 Flexbox - For responsive design
 Google Fonts (Figtree) - For typography
+
 What I learned
-This project helped enhance my understanding of CSS Flexbox for layout positioning and box-shadow for adding depth to UI elements. I also reinforced best practices in semantic HTML and hover/focus states to improve user experience.
-
-One interesting trick I used was customizing the hover effect for the blog title:
-
-css
-Copy
-Edit
-.title a:hover {
-color: hsl(47, 88%, 63%);
-transition: color 0.3s ease-in-out;
-}
-This ensures a smooth transition when hovering over the title.
+This project helped enhance my understanding of CSS Flexbox for layout positioning and box-shadow for adding depth to UI elements. I also reinforced best practices in semantic HTML and active states to improve user experience.
 
 Continued Development
 Moving forward, I aim to:
