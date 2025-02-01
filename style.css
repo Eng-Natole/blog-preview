@@ -1,0 +1,93 @@
+@font-face {
+  font-family: fonts;
+  src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
+}
+
+h1,
+.tag,
+.title .profile p {
+  font-family: fonts;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: hsl(47, 88%, 63%);
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  max-width: 375px;
+  background-color: white;
+  border-radius: 15px;
+  box-shadow: 10px 10px hsl(0, 0%, 7%);
+  padding: 20px;
+  text-align: left;
+}
+
+.container img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.tag {
+  display: inline-block;
+  background-color: hsl(47, 88%, 63%);
+  padding: 5px 15px;
+  font-weight: bold;
+  font-size: 14px;
+  border-radius: 5px;
+  margin-top: 15px;
+  text-align: left;
+}
+
+.publish-date {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 15px 0;
+}
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: black;
+}
+a:active {
+  color: hsl(47, 88%, 63%);
+}
+
+.description {
+  font-size: 16px;
+  color: hsl(0, 0%, 40%);
+  line-height: 1.5;
+  margin-bottom: 20px;
+}
+
+.profile {
+  display: flex;
+}
+
+.profile img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.profile p {
+  font-weight: bold;
+  margin-top: 20px;
+}
